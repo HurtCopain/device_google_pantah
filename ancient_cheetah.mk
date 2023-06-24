@@ -1,7 +1,7 @@
 # Boot animation
-TARGET_SCREEN_HEIGHT := 3120
-TARGET_SCREEN_WIDTH := 1440
-TARGET_BOOT_ANIMATION_RES := 1440
+TARGET_SCREEN_HEIGHT := 2280
+TARGET_SCREEN_WIDTH := 1080
+TARGET_BOOT_ANIMATION_RES := 1080
 
 # Inherit some common AncientOs stuff.
 $(call inherit-product, vendor/ancient/config/common_full_phone.mk)
